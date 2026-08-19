@@ -29,6 +29,19 @@ claude plugin install speak-ste@speak-ste
 
 </details>
 
+<details open>
+<summary><strong>Cursor (and any agent-skills harness)</strong></summary>
+
+```bash
+npx skills add achinthbharadwaj/speak-asd-ste100                  # this workspace
+npx skills add achinthbharadwaj/speak-asd-ste100 -g               # all projects
+npx skills add achinthbharadwaj/speak-asd-ste100 -a cursor -y     # Cursor only
+```
+
+Open a new Cursor agent chat, then type `/speak-ste`.
+
+</details>
+
 Install instructions for other agent-skills harnesses live in [INSTALL.md](./INSTALL.md).
 
 ## What it does
