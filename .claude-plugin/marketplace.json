@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "speak-ste",
+  "description": "Shape Claude Code output into ASD-STE100 Simplified Technical English. Short sentences, approved words, active voice.",
+  "owner": {
+    "name": "achinthbharadwaj"
+  },
+  "plugins": [
+    {
+      "name": "speak-ste",
+      "description": "Speak and write in ASD-STE100 Simplified Technical English.",
+      "source": "./",
+      "category": "writing"
+    }
+  ]
+}

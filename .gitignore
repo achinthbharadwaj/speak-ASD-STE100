@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*~
+
+# Node (only present if you add tooling later)
+node_modules/
