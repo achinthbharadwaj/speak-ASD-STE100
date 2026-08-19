@@ -12,7 +12,7 @@ Modeled on the always-on structure of [`ayghri/i-have-adhd`](https://github.com/
 <summary><strong>Claude Code</strong></summary>
 
 ```bash
-claude plugin marketplace add achinthbharadwaj/speak-ASD-STE100
+claude plugin marketplace add achinthbharadwaj/speak-asd-ste100
 claude plugin install speak-ste@speak-ste
 ```
 

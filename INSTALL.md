@@ -6,7 +6,7 @@
 ### Install (from a GitHub remote)
 
 ```bash
-claude plugin marketplace add achinthbharadwaj/speak-ASD-STE100
+claude plugin marketplace add achinthbharadwaj/speak-asd-ste100
 claude plugin install speak-ste@speak-ste
 ```
 
@@ -68,16 +68,16 @@ Works with any harness that reads agent skills. Swap `-a <agent>` for yours.
 ### Install (with the skills CLI)
 
 ```bash
-npx skills add achinthbharadwaj/speak-ASD-STE100 -a cursor -y
-npx skills add achinthbharadwaj/speak-ASD-STE100 -a opencode -y
+npx skills add achinthbharadwaj/speak-asd-ste100 -a cursor -y
+npx skills add achinthbharadwaj/speak-asd-ste100 -a opencode -y
 ```
 
 ### Install (by copying the folder)
 
 ```bash
-git clone https://github.com/achinthbharadwaj/speak-ASD-STE100
+git clone https://github.com/achinthbharadwaj/speak-asd-ste100
 mkdir -p ~/.cursor/skills
-cp -R speak-ASD-STE100/skills/speak-ste ~/.cursor/skills/
+cp -R speak-asd-ste100/skills/speak-ste ~/.cursor/skills/
 ```
 
 New agent chat, type `/speak-ste`.
